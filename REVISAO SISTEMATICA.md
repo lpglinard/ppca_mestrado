@@ -108,3 +108,6 @@ This systematic review aims to investigate the influence of gamification techniq
 - **Which gamification-specific metrics were used to evaluate process outcomes**:
 - **How were the specific gamification indicators measured?**:
 - **Which gamification-specific metrics were used to evaluate individual impacts?**:
+
+### Mind map of research questions, Quality assessment and Data Extraction form
+- ![mapa_planning.png](mapa_planning.png)
